@@ -51,3 +51,4 @@ pip install -r requirements.txt
 
 ## Feel free to contribute or provide feedback. Enjoy exploring the project! 🎉
 
+![image](https://github.com/user-attachments/assets/b91e6012-c96f-40e2-b6f0-d047cce6edef)
